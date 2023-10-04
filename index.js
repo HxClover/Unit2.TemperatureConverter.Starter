@@ -9,7 +9,6 @@ function convertToCelsius(fahren) {
    return ((fahren - 32) * (5 / 9));
 }
 
-
 /**
  * Takes both numbers (F, C) and display a message with
  * both numbers and how that temp makes you feel using
